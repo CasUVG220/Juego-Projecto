@@ -1,12 +1,8 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+Projecto de Introduccion a la Ingenieria Ciencias de la Computacion
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Projecto Final
+PURPOSE OF PROJECT: Entrega 3
+VERSION or DATE: Entrega 3
+AUTHORS: Luis Pedro Hernandez, Luis Pedro Figueroa, Javier Castillo, Diego Gonzales y Pablo Toledo
